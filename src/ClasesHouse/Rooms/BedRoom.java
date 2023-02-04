@@ -1,4 +1,6 @@
-package ClasesHouse;
+package ClasesHouse.Rooms;
+
+import ClasesHouse.Rooms.Furniture.BedSize;
 
 public class BedRoom {
     private BedSize bedSize;

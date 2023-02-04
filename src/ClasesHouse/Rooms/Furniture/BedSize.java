@@ -1,4 +1,4 @@
-package ClasesHouse.Rooms;
+package ClasesHouse.Rooms.Furniture;
 
 public enum BedSize {
     individual,

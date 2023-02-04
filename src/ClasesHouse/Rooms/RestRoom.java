@@ -1,4 +1,4 @@
-package ClasesHouse;
+package ClasesHouse.Rooms;
 
 public class RestRoom {
 
